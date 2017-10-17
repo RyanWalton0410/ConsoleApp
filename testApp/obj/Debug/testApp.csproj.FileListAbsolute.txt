@@ -1,0 +1,6 @@
+c:\users\000128780\documents\visual studio 2012\Projects\testApp\testApp\bin\Debug\testApp.exe.config
+c:\users\000128780\documents\visual studio 2012\Projects\testApp\testApp\bin\Debug\testApp.exe
+c:\users\000128780\documents\visual studio 2012\Projects\testApp\testApp\bin\Debug\testApp.pdb
+c:\users\000128780\documents\visual studio 2012\Projects\testApp\testApp\obj\Debug\testApp.csprojResolveAssemblyReference.cache
+c:\users\000128780\documents\visual studio 2012\Projects\testApp\testApp\obj\Debug\testApp.exe
+c:\users\000128780\documents\visual studio 2012\Projects\testApp\testApp\obj\Debug\testApp.pdb
