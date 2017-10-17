@@ -15,6 +15,7 @@ namespace testApp
             Console.WriteLine("Please tell me your name");
 
             string name = (Console.ReadLine());
+            
             Console.WriteLine("Is " + name + " ok?");
             Console.WriteLine("\n(Y)es\n(N)o");
 
@@ -28,12 +29,13 @@ namespace testApp
             if (ansys.KeyChar == 'y' || ansys.KeyChar == 'Y')
             {
                 //Handle yes case
-                Console.Write("");
+                Console.WriteLine("");
                 
             }
             if (ansys.KeyChar == 'n' || ansys.KeyChar == 'N')
             {
                 //Handle no case
+                Console.WriteLine("");
             }
             else
             {
