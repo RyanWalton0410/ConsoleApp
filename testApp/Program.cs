@@ -35,7 +35,7 @@ namespace testApp
 					}
 					else
 					{
-                        //Handles No case with an else method
+                       				 //Handles No case with an else method
 						Console.WriteLine("it's Bright... almost to bright I dont like this");
 					}
 				}
